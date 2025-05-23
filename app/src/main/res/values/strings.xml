@@ -11,4 +11,11 @@
     <string name="password">Password</string>
     <string name="username">Username</string>
     <string name="instagram">Instagram</string>
+    <string name="logo">Logo</string>
+    <string name="username2">Username:</string>
+    <string name="enter_username">Enter username</string>
+    <string name="password2">Password:</string>
+    <string name="enter_password">Enter password</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
